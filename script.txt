@@ -1,0 +1,16 @@
+<span id="a">root@nishanth.com</span>:<span id="b">~</span><span id="c">#</span> cat aboutme.txt<br/><br/>
+<!-- My favorite code quote, "<span id="k">Code for Everyone</span>". -->
+I'm Nishanth, an cyber security enthusiast. I'm a  student pursuing B.E computer science engineering in sri ramakrishna engineering college.  My area of interest and expertise involves Offensive Security, Red Teaming, Open Source Intelligence, Application & Network Security and Host penetration testing. I'm a zealous learner of Information Security . 
+
+
+
+
+
+
+
+# <a href="https://www.linkedin.com/in/nishanth-m-a89466223" target="_blank">LinkedIn</a>
+
+# <a href="https://instagram.com/nishanthashwin?igshid=ZDdkNTZiNTM=" target="_blank">Instagram</a> 
+
+
+<span id="a">root@nishanth.com</span>:<span id="b">~</span><span id="c">#</span> exit 
